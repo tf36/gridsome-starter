@@ -5,6 +5,7 @@ This is the project you get when you run `gridsome create new-project` - plus th
 * SASS
 * SASS globals auto-injected into Vue components
 * CSS reset
+* Default fonts
 
 ### 1. Install Gridsome CLI tool if you don't have
 
