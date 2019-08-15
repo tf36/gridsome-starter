@@ -7,6 +7,10 @@ This is the project you get when you run `gridsome create new-project` - plus th
 * CSS reset
 * Default fonts
 
+Run the following after npm install to update Gridsome:
+
+`npm install gridsome@latest`
+
 ### 1. Install Gridsome CLI tool if you don't have
 
 `npm install --global @gridsome/cli`
